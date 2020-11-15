@@ -78,6 +78,8 @@
         </tbody>
         </thread>
     </table>
+    <h2>My Profile Dicoding</h2>
+    <a href="https://www.dicoding.com/users/muhamzahf97">Muhammad Hamzah Fyrzatullah</a>
     </body>  
   </head> 
 </html>
