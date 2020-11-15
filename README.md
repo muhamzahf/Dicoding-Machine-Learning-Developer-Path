@@ -32,7 +32,7 @@
             <a href="https://github.com/muhamzahf/Dicoding-Machine-Learning-Developer-Path/tree/main/Dicoding-Machine-Learning-Developer-Path/Belajar-Machine-Learning-Untuk-Pemula/Submission_Dicoding_Machine_Learning_Pemula">Belajar Machine Learning untuk Pemula</a>   
         </li>
         <li>
-            <a href="https://github.com/muhamzahf/Dicoding-Machine-Learning-Developer-Path/tree/main/Dicoding-Machine-Learning-Developer-Path/Belajar-Pengembangan-Machine-Learning">Belajar Machine Learning untuk Pemula</a>   
+            <a href="https://github.com/muhamzahf/Dicoding-Machine-Learning-Developer-Path/tree/main/Dicoding-Machine-Learning-Developer-Path/Belajar-Pengembangan-Machine-Learning">Belajar Pengembangan Machine Learning</a>   
         </li>
     </ul>
     <h2>Result</h2>
