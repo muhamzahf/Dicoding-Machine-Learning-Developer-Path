@@ -48,7 +48,7 @@
             <tr>
                 <td align="center">1</td>
                 <td>Belajar Dasar Visualisasi Data</td>
-                <td align="center">10-06-2020</td>
+                <td align="center">10-09-2020</td>
                 <td align="center"><a href="https://www.dicoding.com/certificates/QGRX5587YX0M" rel="nofollow">→</a></td>
             </tr>
             <tr>
